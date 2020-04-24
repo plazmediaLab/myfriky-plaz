@@ -14,7 +14,7 @@ const Layout = props => {
     <>
 
       <Helmet>
-        <title>MyFriky PLAZ</title>
+        <title>PLAZresort HOTEL</title>
         <link rel="icon" href={Favicon} />
         <meta name="theme-color" content="#191919" />
         <link href={ModularCSSfonstRequired} rel="stylesheet" />
