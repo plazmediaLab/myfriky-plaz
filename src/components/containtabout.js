@@ -17,7 +17,7 @@ const ContaintAbout = () => {
           titulo
           content
           image {
-            fluid{
+            fluid(maxWidth:1200){
               ...GatsbyDatoCmsFluid
             }
           }
