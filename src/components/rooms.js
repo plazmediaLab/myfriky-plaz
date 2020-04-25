@@ -1,4 +1,5 @@
 /**@jsx jsx */
+// eslint-disable-next-line
 import React from 'react';
 // Gatsby
 import { graphql, Link } from 'gatsby';

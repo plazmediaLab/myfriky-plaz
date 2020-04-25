@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React, { useRef } from "react"
 // Modular CSS
 import { navBarActionToggle } from 'modular-css';
